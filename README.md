@@ -1,16 +1,127 @@
-# React + Vite
+# Imtiyaz Hasan Amin - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my software engineering skills, projects, technical experience, and professional journey.
 
-Currently, two official plugins are available:
+This portfolio represents my journey as an aspiring **ASP.NET Full Stack Developer** and highlights my experience with backend development, frontend technologies, database-driven applications, and modern web development practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Website
 
-## React Compiler
+https://imtiyaz-hasan-amin-portfolio.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+- Fully responsive design for desktop, tablet, and mobile devices
+- Modern dark/light theme support
+- Clean and professional UI/UX
+- Project showcase with technology-based filtering
+- GitHub repository integration
+- Live demo links for projects
+- CV download functionality
+- Skills and technology showcase
+- Professional experience section
+- Education and training details
+- Smooth navigation
+- Mobile-friendly navigation menu
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+### Frontend
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Tools
+
+- Git
+- GitHub
+- GitHub Desktop
+- Visual Studio Code
+- Vercel
+
+## 👨‍💻 About Me
+
+I am an aspiring **ASP.NET Full Stack Developer** with practical experience in building modern web applications using Microsoft technologies and frontend frameworks.
+
+My technical interests include:
+
+- Full-stack web application development
+- Backend API development
+- Database-driven software solutions
+- Frontend engineering
+- Clean and maintainable software architecture
+
+## 💻 Technical Skills
+
+### Backend Development
+
+- C#
+- ASP.NET MVC
+- ASP.NET Core
+- REST API
+- NodeJS
+- Entity Framework
+- ADO.NET
+
+### Frontend Development
+
+- HTML
+- CSS
+- JavaScript
+- Angular
+- React
+
+### Database & Other Tools
+
+- Microsoft SQL Server
+- MongoDB
+- Crystal Reports
+- XML
+- Git
+- GitHub
+
+## 🚀 Featured Projects
+
+This portfolio showcases different software projects developed using various technologies.
+
+Each project includes:
+
+- Project overview
+- Technologies used
+- GitHub repository link
+- Live demo link (when available)
+
+## 🔄 Future Improvements
+
+Planned improvements:
+
+- Add more real-world projects
+- Add certifications section
+- Add blog section
+- Add animations and interactive elements
+- Improve SEO optimization
+- Add multilingual support
+
+## 📬 Contact
+
+Feel free to connect with me.
+
+Email:
+
+imtiyazhasan346@gmail.com
+
+GitHub:
+
+https://github.com/imtiyaz-hasan-amin
+
+LinkedIn:
+
+https://linkedin.com/in/imtiyaz-hasan-amin
+
+## 📄 License
+
+This project is created for personal portfolio and professional showcase purposes.
+
+You are welcome to explore the code and get inspiration from it.
