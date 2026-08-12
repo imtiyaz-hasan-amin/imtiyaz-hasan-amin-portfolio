@@ -91,10 +91,29 @@ export const education = [
 
 export const projects = [
   {
+    title: "Assignment & Submission Management System",
+    category: "React",
+    description:
+      "A full-stack role-based Assignment & Submission Management System built with React, TypeScript, ASP.NET Core, and MongoDB, featuring JWT authentication, file uploads, marks and feedback, Swagger, and xUnit testing.",
+    stack: [
+      "React",
+      "TypeScript",
+      "ASP.NET Core Web API",
+      "C#",
+      "MongoDB",
+      "JWT",
+      "Swagger",
+      "xUnit",
+    ],
+    github:
+      "https://github.com/imtiyaz-hasan-amin/assignment-submission-management-system",
+    demo: "",
+  },
+  {
     title: "Student Course Management System",
     category: "Angular",
     description:
-      "A full-stack Student Course Management System developed using ASP.NET Core Web API and Angular..",
+      "A full-stack Student Course Management System developed using ASP.NET Core Web API and Angular.",
     stack: [
       "C#",
       "Angular",

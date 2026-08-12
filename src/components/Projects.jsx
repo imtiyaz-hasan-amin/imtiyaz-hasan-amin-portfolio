@@ -21,7 +21,7 @@ function Projects() {
         <SectionHeading
           eyebrow="Projects"
           title="Selected development work"
-          description="Use the filters to explore projects by technology. Replace the sample links with your exact GitHub repository and live-demo URLs."
+          description="Explore selected projects across full-stack web, API, desktop, and real-time application development."
         />
 
         <div className="filter-bar" aria-label="Project filters">
